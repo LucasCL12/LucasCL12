@@ -1,0 +1,9 @@
+Mantequilla,PanBimbo
+Atún,JamónYork,Queso,TomateFrito
+NoVegano,NoVegetariano,Gluten
+15,5,0
+1
+
+Freír un pan untado en mantequilla, mientras se pone el relleno encima.
+Untar otro pan, poner encima del relleno y dar la vuelta cuando el de debajo está dorado.
+Se puede saber cuándo están listos porque resbala.

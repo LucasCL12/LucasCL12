@@ -1,0 +1,7 @@
+Aceite,Salchichas
+Sal
+NoVegano,NoVegetariano,NoGluten
+15,5,0
+2
+
+Freír las salchichas en aceite.

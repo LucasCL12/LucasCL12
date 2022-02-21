@@ -1,0 +1,37 @@
+Harina,Huevos,Leche,Sal
+Aceite,Agua,Azúcar,Bechamel,Brie,Champiñones,Chocolate,Gazpacho,Emmental,Espárragos,Espinacas,Jamón,Maíz,Mantequilla,Nutella,Queso,Setas,Plátano,Pollo,Puerro,RalladuraDeLimón,Solomillo,Tomate,Surimi,Vainilla
+NoVegano,Vegetariano,Gluten
+45,25,30
+1,2,4
+
+Ingredientes para 8 crepes:
+2 Huevos, 110g Harina, 240ml Leche (o 120ml Agua y 120ml Leche), 15ml Azúcar (opcional), 2g Sal
+
+Se puede batir a mano o con la batidora.
+Abrir huevos y añadir la leche (y agua), el azúcar, la sal (y los aromatizantes) al recipiente y batir bien.
+Añadir la harina y batir con energía hasta que no queden grumos.
+Tapar y dejar reposar como mínimo 30 minutos (mejor una hora), en la nevera si hace calor o dejamos pasar más tiempo.
+Engrasar con aceite o mantequilla derretida la sartén.
+Calentar hasta que coja buena temperatura.
+Echar una porción de masa en el centro (unos 60 ml) y extenderla por toda la superficie girando la sartén.
+Dejar cocinar uno o dos minutos, hasta que los bordes se doren y se despeguen.
+Dar la vuelta con cuidado y dorar medio minuto o un minuto más por el otro lado.
+Retirar a un plato y continuar con el resto de la masa hasta terminarla.
+Mantener tapado con film para que no se enfríen.
+
+Ideas para rellenarlas:
+Crêpes de azúcar
+Crêpes de nutella
+Crêpes de queso fundido
+Crêpes de surimi
+Crêpes de plátano y chocolate
+Crêpes de pollo, maíz y puerro
+Crêpes de solomillo
+Crêpes de pollo asado, tomate y queso emmental
+Crêpes de jamón y queso provolone
+Crêpes salados de setas y jamón con bechamel
+Crêpes rellenas de rajas con crema
+Crêpes de espárragos y queso brie
+Crêpes con langostinos, espinacas y aceite de albahaca
+Crêpes de gazpacho rellenos de jamón
+Rollitos de crêpe rellenos de queso crema y bresaola

@@ -1,0 +1,12 @@
+Aceite,Agua,Arroz,Huevo,JamónYork,Sal
+Gambas,Guisantes,Zanahoria
+NoVegano,NoVegetariano,NoGluten
+30,20,0
+1
+
+Se cuece el arroz sin que se deshaga en agua con sal ~15 minutos.
+Se lava y escurre, y se reserva.
+Se pone aceite en sartén y hacer tortilla francesa.
+Cortar en trocitos la tortilla, jamón york y opcional zanahoria cocida y/o gambas.
+Rehogar el jamón york (opcional guisantes y gambas) primero.
+Echar el resto, sal, freír y mezclar.

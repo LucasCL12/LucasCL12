@@ -1,0 +1,9 @@
+Aceite,Lechuga,Sal
+Tomate,Vinagre
+Vegano,Vegetariano,NoGluten
+5,5,0
+3
+
+Lavar y escurrir la lechuga.
+Opcional, lavar y cortar el tomate.
+Aliñar.

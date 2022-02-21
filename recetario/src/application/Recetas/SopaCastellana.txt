@@ -1,0 +1,15 @@
+Aceite,Agua,Ajo,Jamón,Laurel,Pimentón,Sal
+Huevo
+NoVegano,NoVegetariano,Gluten
+30,20,0
+1
+
+Poner aceite en la cazuela y freír tres dientes de ajo pelados.
+Rehogar taquitos de jamón un momentín.
+Preparar un recipiente con agua, y echar una cucharada de pimentón en la cazuela.
+Antes de que se queme añadir el agua.
+Echar laurel y sal.
+Dejar cocer ~10 minutos.
+Cortar el pan duro en sopas y poner en un plato.
+Escalfar un huevo entero en el caldo hirviendo.
+Poner el huevo en el pan cortado y echar caldo por encima.

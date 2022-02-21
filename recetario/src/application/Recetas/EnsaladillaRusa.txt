@@ -1,0 +1,11 @@
+AtúnDeLata,Guisantes,Huevo,Mayonesa,Patata,Sal,Zanahoria
+Aceitunas,Anchoas,CortezasDeTrigo,Pimiento
+NoVegano,Vegetariano,NoGluten
+45,30,0
+1
+
+Se cuece la patata con piel, los huevos (10 minutos) y la zanahoria.
+Se sacan y dejan enfriar.
+Cuando están frías se pela la patata y se cortan en cuadraditos.
+Se añade una lata de guisantes, el huevo cocido cortado en trocitos, y el atún.
+Se echa mayonesa, se mezcla y está.

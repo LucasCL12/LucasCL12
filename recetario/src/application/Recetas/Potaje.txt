@@ -1,0 +1,17 @@
+Aceite,Agua,Ajo,Arroz,BacalaoSalado,Garbanzos,Laurel,Pan,Pimentón,Sal
+Espinacas
+NoVegano,Vegetariano,NoGluten
+60,30,600
+1,2
+
+Se ponen a remojar garbanzos y a desalar bacalao en el mismo bol 10 horas.
+Se ponen garbanzos, bacalao, laurel y chorrito de aceite en la olla con agua hasta que cubra una pulgada y media.
+Se cuece con la olla cerrada.
+Aparte, en una sartén se fríen bien 3 dientes de ajo pelados y dos rebanadas de pan del dia anterior.
+Se macha esto último en el mortero con cuidado que quema.
+Se vuelve a echar en la sartén pero retirado del fuego.
+Se añade una cucharada de pimentón a la sartén y se remueve para que se mezcle y no se queme.
+Se añade todo a la olla y se ponen dos puñados de arroz.
+Opcionalmente añadir espinadas bastante picadas.
+Se deja cocer 15-20 minutos con la olla abierta.
+Probar y rectificar la sal.

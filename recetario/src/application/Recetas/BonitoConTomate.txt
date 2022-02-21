@@ -1,0 +1,18 @@
+Aceite,Bonito,Cebolla,TomateTriturado,Sal
+Tomate,TomateFrito
+NoVegano,Vegetariano,NoGluten
+100,45,0
+2
+
+Se limpia el pescado y se deja en trozos grandes, con sal.
+Se echa aceite en una sartén pequeña para que cubra casi la mitad de cada trozo.
+Se fríe el pescado por arriba y por abajo.
+Se va cortando la cebolla.
+Se van dejando aparte porque luego van a la cazuela.
+Con el aceite se pocha la cebolla.
+Se echa el tomate triturado y tiene que freír, cuidado que salta mucho.
+Se añade más sal.
+Se espera hasta que el tomate huela a frito.
+Se añade todo el tomate encima de los trozos de bonito, si hace falta se pasa por el pasapuré.
+Si se deja tapado en la cazuela se toma más el sabor.
+Se cuece un rato más, como media hora.

@@ -1,0 +1,11 @@
+Agua,Pasta
+Atún,JamónYork,Maíz,Mayonesa,Sal,Tomate
+Vegano,Vegetariano,Gluten
+20,15,0
+1,3
+
+Cocer la pasta, preferiblemente al dente.
+Cortar los ingredientes que se vayan a añadir si es necesario.
+La receta original es con atún, jamón york, maíz y tomate en trozos, pero da igual.
+Dejar enfriar la pasta y mezclar todo.
+Añadir opcionalmente mayonesa.

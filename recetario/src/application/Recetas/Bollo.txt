@@ -1,0 +1,12 @@
+Aceite,Azúcar,Harina,Huevo,Leche,Levadura,Mantequilla
+RalladuraDeLimón,RalladuraDeNaranja
+NoVegano,Vegetariano,Gluten
+40,20,0
+4
+
+
+Por cada huevo 3 cucharadas normales de aceite, de azúcar y de leche.
+Añadir algo de levadura y harina la que admita (ir batiendo hasta que se pueda pintar con la masa).
+Precalentar horno a 180 grados arriba y abajo.
+Untar fuente de mantequilla y después espolvorearla con harina.
+Echar la masa en la fuente y meter en el horno hasta que el bollo esté hecho por dentro.

@@ -1,0 +1,7 @@
+Agua,Huevo
+Sal
+NoVegano,Vegetariano,NoGluten
+15,5,0
+1,2
+
+Cocer los huevos enteros en agua 10 minutos.

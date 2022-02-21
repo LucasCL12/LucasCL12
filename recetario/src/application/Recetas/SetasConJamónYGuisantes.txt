@@ -1,0 +1,11 @@
+Aceite,Jamón,Setas
+Cebolla,Champiñones,Chorizo,Guisantes
+NoVegano,NoVegetariano,NoGluten
+25,20,0
+1,2,3
+
+Freír la cebolla en aceite.
+Freír las setas hasta que suelten el agua.
+Añadir el jamón o similar.
+Añadir los guisantes.
+Esperar un poco a que se evapore mientras se remueve.

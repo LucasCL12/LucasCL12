@@ -1,0 +1,15 @@
+Aceite,Agua,Ajo,Cebolla,Laurel,Pollo,Sal,TomateFrito
+Cerveza,Champiñones,Pimienta,Vino
+NoVegano,NoVegetariano,NoGluten
+90,60,0
+2
+
+Se trocea el pollo, se sala y se deja preparado. (Se pueden guardar los huesos para caldo.)
+Se pica media cebolla y se sofríe ligeramente en aceite en la olla.
+Se añaden 2 o 3 dientes de ajo picaditos a la cazuela.
+Se añade el pollo y se fríe un poco por fuera (~15 minutos), moviéndolo bastante.
+Se añade un poco de tomate frito y medio vaso de agua. Alternativamente cerveza pequeña o vino blanco.
+Se añade laurel.
+Se cierra la tapa, y se deja cocer ~15 minutos.
+Cocer abierto otro poco.
+Opcional, un bote de champis en conserva.

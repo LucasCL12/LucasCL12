@@ -1,0 +1,10 @@
+Agua,Arroz
+Aceite,Atún,Mayonesa,TomateFrito
+NoVegano,Vegetariano,NoGluten
+25,10,0
+1
+
+Cocer el arroz.
+Escurrir.
+Poner en la taza e ir aplastando lo siguiente: poco arroz, atún, mayonesa, mucho arroz.
+Dar la vuelta a la taza y añadir por encima el tomate frito.

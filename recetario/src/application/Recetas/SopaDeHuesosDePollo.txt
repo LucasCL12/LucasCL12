@@ -1,0 +1,18 @@
+Agua,Ajo,Cebolla,Huesos,Laurel,Pasta,Puerro,Verduras,Zanahoria
+Huevo,Patata,Sal,Starlux
+NoVegano,NoVegetariano,Gluten
+30,15,0
+1
+
+Se ponen en la olla (en agua) los huesos, con puerro, zanahoria, un trozo de cebolla sin picar, un diente de ajo y una hoja de laurel.
+Opcional echar 1/4 de pastilla de Starlux.
+Opcional, añadir patatas peladas y enteras para hacer un puré con toda la verdura, la carne sobrante y algo de caldo.
+Se cuece en la olla cerrada 10-15 minutos.
+Sacar los huesos escurridos a un plato.
+Se ponen las verduras aparte para triturar o tirar.
+Se cuela el caldo para la sopa.
+Si se quiere se hace el puré solo triturando.
+Para la sopa se añade la pasta al caldo.
+Se cuece.
+Ajustar la sal.
+Opcionalmente añadir huevo cocido picado.

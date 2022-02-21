@@ -1,0 +1,12 @@
+Agua,Patata,Sal,Zanahoria
+Queso
+Vegano,Vegetariano,NoGluten
+30,10,0
+1
+
+Pelar y cortar patatas y zanahorias.
+Poner en la cazuela y añadir agua y sal.
+Cocer un ratete.
+Eliminar el agua sobrante y triturarlo todo.
+(Se puede apartar un poco de agua para si quedase muy espeso reañadirla)
+Opcional añadir quesito, tranchete o similar.

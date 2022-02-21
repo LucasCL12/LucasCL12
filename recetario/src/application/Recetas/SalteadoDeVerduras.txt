@@ -1,0 +1,9 @@
+Aceite,Pimienta,Sal,Verduras
+Berenjena,Brócoli,Calabacín,Cebolla,Espárragos,Pimiento,SalsaDeSoja,Zanahoria
+Vegano,Vegetariano,NoGluten
+20,15,0
+1
+
+Se cortan las verduras en trozos pequeños y se saltean con un pelín de aceite.
+Se salpimienta al final (opcional salsa de soja en vez de sal), para que las verduras no suelten mucha agua.
+Opcional ajo en polvo.

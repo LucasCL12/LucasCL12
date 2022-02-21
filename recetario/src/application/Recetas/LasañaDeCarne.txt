@@ -1,0 +1,12 @@
+Aceite,Agua,Bechamel,CarnePicada,Harina,Leche,Mantequilla,Queso,PastaEnLáminas,Sal,TomateFrito
+Cebolla,Parmesano,Pollo
+NoVegano,NoVegetariano,Gluten
+90,60,0
+1,2
+
+Hacer la carne picada, con o sin cebolla.
+Hacer la bechamel.
+Cocer la pasta y apartar en un paño seco y limpio.
+Precalentar el horno a 180 grados.
+Poner en una fuente capa de pasta, capa de carne, .., capa de pasta, bechamel y espolvorear queso por encima.
+Meter al horno.

@@ -1,0 +1,12 @@
+Agua,Mantequilla,Pasta,Sal,TomateFrito
+Aceite,Espaguetis,Especias,Macarrones,Orégano,Tomillo
+NoVegano,NoVegetariano,Gluten
+25,15,0
+1
+
+Se cuece la pasta en agua con sal.
+Para que no se pegue se puede echar aceite.
+Se aparta y se derrite mantequilla en la cazuela.
+Se fríe el chorizo en la mantequilla.
+Cuando vaya estando se agrega tomate frito, especias y sal.
+Se vuelve a echar la pasta en la cazuela y se mezcla bien.

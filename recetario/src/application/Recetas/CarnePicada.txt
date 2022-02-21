@@ -1,0 +1,13 @@
+Aceite,CarnePicada,Cebolla,Sal
+Especias,Orégano,PanDePita,Pimienta,TomateFrito,Tomillo
+NoVegano,NoVegetariano,NoGluten
+25,15,0
+2
+
+Se pone la sartén con el aceite y se corta la cebolla en cachitos pequeños.
+Se pocha la cebolla en el aceite cuando esté caliente.
+Se añade la carne y se mueve de vez en cuando.
+Aquí se puede añadir el tomate frito.
+En este punto se añade la sal y si se quiere especias.
+Cuando se evapore casi toda el agua ya estaría.
+Se puede envolver la carne en pan de pita.

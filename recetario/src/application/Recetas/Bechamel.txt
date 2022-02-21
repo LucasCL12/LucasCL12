@@ -1,0 +1,11 @@
+Harina,Leche,Mantequilla,Sal
+Aceite
+NoVegano,Vegetariano,Gluten
+20,20,0
+3
+
+Derretir 40 g de mantequilla en una cazuela y añadir 40 g de harina cuando se derrita.
+(Opcional echar 80 g y 80 g si se quiere espesa, como para las croquetas)
+Mezclar bien y dorarlo un poco.
+Ir añadiendo la leche muy poco a poco a la cazuela bastante caliente y removiendo con ganas.
+Aprox 1/2, 2/3 o 3/4 de litro de leche para que quede bien.
