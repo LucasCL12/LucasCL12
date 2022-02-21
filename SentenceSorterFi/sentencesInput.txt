@@ -1,0 +1,2 @@
+Here the sentences (in Finnish) it will sort and output to the other file, one per line.
+Once it has created the file we can use the other program to show them conveniently.
